@@ -1,0 +1,149 @@
+[
+    {
+        "city": "Delhi",
+        "temp": 31.77,
+        "humidity": 45,
+        "condition": "few clouds",
+        "datetime": "2025-09-12 19:21:02"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 69,
+        "condition": "scattered clouds",
+        "datetime": "2025-09-12 19:21:16"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 69,
+        "condition": "scattered clouds",
+        "datetime": "2025-09-12 19:21:29"
+    },
+    {
+        "city": "Delhi",
+        "temp": 31.77,
+        "humidity": 45,
+        "condition": "few clouds",
+        "datetime": "2025-09-12 19:22:33"
+    },
+    {
+        "city": "Bhopal",
+        "temp": 27.13,
+        "humidity": 69,
+        "condition": "haze",
+        "datetime": "2025-09-12 19:22:42"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 69,
+        "condition": "scattered clouds",
+        "datetime": "2025-09-12 19:22:56"
+    },
+    {
+        "city": "Ujjain",
+        "temp": 24.62,
+        "humidity": 80,
+        "condition": "overcast clouds",
+        "datetime": "2025-09-12 19:23:11"
+    },
+    {
+        "city": "Delhi",
+        "temp": 32.05,
+        "humidity": 58,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:19:09"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 74,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:19:23"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 74,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:19:41"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 74,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:19:47"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 74,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:21:38"
+    },
+    {
+        "city": "Dewas",
+        "temp": 25.76,
+        "humidity": 77,
+        "condition": "overcast clouds",
+        "datetime": "2025-09-14 19:21:44"
+    },
+    {
+        "city": "Dewas",
+        "temp": 25.76,
+        "humidity": 77,
+        "condition": "overcast clouds",
+        "datetime": "2025-09-14 19:21:46"
+    },
+    {
+        "city": "Bhopal",
+        "temp": 28.27,
+        "humidity": 65,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:22:08"
+    },
+    {
+        "city": "Ujjain",
+        "temp": 26.88,
+        "humidity": 73,
+        "condition": "overcast clouds",
+        "datetime": "2025-09-14 19:23:49"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 74,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:25:27"
+    },
+    {
+        "city": "Delhi",
+        "temp": 32.05,
+        "humidity": 58,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:27:05"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 74,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:27:17"
+    },
+    {
+        "city": "Indore",
+        "temp": 27.1,
+        "humidity": 74,
+        "condition": "haze",
+        "datetime": "2025-09-14 19:27:19"
+    },
+    {
+        "city": "Dewas",
+        "temp": 25.76,
+        "humidity": 77,
+        "condition": "overcast clouds",
+        "datetime": "2025-09-14 19:27:27"
+    }
+]
