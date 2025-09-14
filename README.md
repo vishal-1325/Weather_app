@@ -20,15 +20,6 @@ It provides **real-time weather updates**, a **5-day forecast**, and keeps a **l
 
 ---
 
-## 📸 Screenshots
-*(Add your own screenshots here after running the app)*  
-Example:
-- Home Screen with Weather Data  
-- Forecast Cards  
-- Weather Logs Section  
-
----
-
 ## 🛠️ Tech Stack
 - **Python 3**
 - [Streamlit](https://streamlit.io/) (UI framework)
